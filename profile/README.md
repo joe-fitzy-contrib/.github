@@ -1,3 +1,3 @@
-# Joe Fitzy's Contrib Org
+# Joe Fitzy's Open Source Contributions
 
 Possible declutter of forks. WIP
